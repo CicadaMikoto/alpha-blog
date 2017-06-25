@@ -44,6 +44,15 @@ $navbar-default-bg: black;
     opacity: 0.9;
 }
 
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+.description {
+    margin-top: 0;
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
@@ -51,7 +60,7 @@ footer {
     color: #777;
 }
 
-foot a:hover {
+footer a:hover {
     color: #222;
 }
 
