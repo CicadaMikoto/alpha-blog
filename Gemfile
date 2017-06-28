@@ -14,6 +14,9 @@ gem 'sqlite3'
 gem 'puma', '~> 3.0'
 # Use BCrypt for password crypto
 gem 'bcrypt', '~> 3.1.7'
+# Use Will_Paginate for pagination
+gem 'will_paginate', '3.1.5'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '~> 5.0'
